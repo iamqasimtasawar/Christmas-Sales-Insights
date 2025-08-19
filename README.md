@@ -119,6 +119,7 @@ DIVIDE(
 ## 🏆 Achievement
 
 🥈 Secured **2nd Runner-Up** position in the Holiday Sales Challenge (global participation).
+<img width="7176" height="5028" alt="FP20 Challenge 22 Certificate 3" src="https://github.com/user-attachments/assets/38e58867-5b53-4c9f-8d95-c7fe9581f908" />
 
 ---
 
